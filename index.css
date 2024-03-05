@@ -1,0 +1,44 @@
+body {
+    background-color: aqua;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    border: 10px;
+    margin: 5px
+}
+
+.complete {
+    display: flex;
+    justify-content: center;
+    border: 10px;
+    margin: 5px
+} 
+
+.data { 
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.inputs {
+    display: flex;
+    justify-content: center;
+    border: 10px black;
+}
+
+#successImage {
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    margin: auto;
+}
+
+#message {
+    text-align: center;
+}
+
+p{ 
+    text-align: center;
+}
